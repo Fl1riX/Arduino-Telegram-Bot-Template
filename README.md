@@ -24,6 +24,7 @@
 Для работы проекта потребуются следующие библиотеки:
 - WiFi (встроенная)
 - WiFiClientSecure (встроенная)
+- esp_task_wdt (встроенная)
 - [UniversalTelegramBot](https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot) 📦
 - [ArduinoJson](https://arduinojson.org/) 📦
 - [GyverOLED](https://github.com/GyverLibs/GyverOLED) 📦
